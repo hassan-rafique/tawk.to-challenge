@@ -18,7 +18,7 @@ This task follows the instructions mentioned in [this pdf](https://github.com/ha
 
 - All Core Data write queries are perfomed on a separate thread EXEPT note editing, which is a user generated action and done on main thread (using main managed object context).
 
-- All Core Data write operations are done in a private managed object context and gets merged into the parent (main) managed object context and reflected to the user interface immediately. However, parent managed object context saves all changes to persistant store only when App goes to backgoround or application gets terminated and when user writes a note. Detaching a debugger doesn't trigger save request to persistant store. 
+- All Core Data write operations are done in a private managed object context which gets merged into the parent (main) managed object context and reflected to the user interface immediately. However, parent managed object context saves all changes to persistant store only when App goes to backgoround or application gets terminated and when user writes a note. Detaching a debugger doesn't trigger save request to persistant store. 
 
 - 2 basic Unit tests are added. 
 
