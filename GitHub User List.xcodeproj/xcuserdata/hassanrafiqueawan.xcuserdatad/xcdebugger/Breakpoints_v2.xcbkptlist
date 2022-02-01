@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B528E4F8-0D9A-4F6B-9080-A737373FDC7C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99BDDBB7-25FC-469D-9712-3C0B5B0F6550"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHub User List/ViewModel/UsersListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "performLocalFetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EEDFA08-D5EF-407F-870D-A5269E07BA2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHub User List/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "applicationWillTerminate(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2719D4BB-5A82-46C5-B965-7114096119B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHub User List/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "sceneDidEnterBackground(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FE0A5B1-3E14-4E39-B5CB-31E1DB61C597"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHub User List/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "sceneDidDisconnect(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A92359F-CE1A-447B-B76E-AEA6C084B17B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHub User ListTests/GitHub_User_ListTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "testUsersList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65BAF2B2-0797-4F8B-A928-5FE28362F337"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHub User ListTests/GitHub_User_ListTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "testUserUpdate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "65BAF2B2-0797-4F8B-A928-5FE28362F337 - e29c9dd57fb9dd38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHub_User_ListTests.GitHub_User_ListTests.testUserUpdate() -&gt; ()"
+                  moduleName = "GitHub User ListTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassanrafiqueawan/Desktop/Operation%20Queue/GitHub%20User%20List/GitHub%20User%20ListTests/GitHub_User_ListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "333">
+               </Location>
+               <Location
+                  uuid = "65BAF2B2-0797-4F8B-A928-5FE28362F337 - d7a0c11fcca1f7e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHub_User_ListTests.GitHub_User_ListTests.testUserDetailsData() -&gt; ()"
+                  moduleName = "GitHub User ListTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassanrafiqueawan/Desktop/Operation%20Queue/GitHub%20User%20List/GitHub%20User%20ListTests/GitHub_User_ListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "333">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA2D0B3A-D5CF-4F25-8123-107AC0619749"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHub User List/Operations/Data Operations/UserDetailsParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "userInContext(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA2D0B3A-D5CF-4F25-8123-107AC0619749 - e4a6597db44de451"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHub_User_List.UserDetailsParser.userInContext(__C.NSManagedObjectContext) -&gt; Swift.Optional&lt;GitHub_User_List.User&gt;"
+                  moduleName = "GitHub User List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassanrafiqueawan/Desktop/Operation%20Queue/GitHub%20User%20List/GitHub%20User%20List/Operations/Data%20Operations/UserDetailsParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "EA2D0B3A-D5CF-4F25-8123-107AC0619749 - 10a6c1675b6055a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHub_User_ListTests.UserDetailsParser.userInContext(__C.NSManagedObjectContext) -&gt; Swift.Optional&lt;GitHub_User_ListTests.User&gt;"
+                  moduleName = "GitHub User ListTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassanrafiqueawan/Desktop/Operation%20Queue/GitHub%20User%20List/GitHub%20User%20List/Operations/Data%20Operations/UserDetailsParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB936654-3BEB-4678-AA45-085FA705995C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHub User List/Operations/Data Operations/UserDetailsParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "updateUserDetailsUingContext(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB936654-3BEB-4678-AA45-085FA705995C - 8b9a76ea14dac86d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHub_User_List.UserDetailsParser.updateUserDetailsUingContext(__C.NSManagedObjectContext) -&gt; Swift.Optional&lt;GitHub_User_List.User&gt;"
+                  moduleName = "GitHub User List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassanrafiqueawan/Desktop/Operation%20Queue/GitHub%20User%20List/GitHub%20User%20List/Operations/Data%20Operations/UserDetailsParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "209">
+               </Location>
+               <Location
+                  uuid = "EB936654-3BEB-4678-AA45-085FA705995C - edf6fcc3077ec1f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHub_User_ListTests.UserDetailsParser.updateUserDetailsUingContext(__C.NSManagedObjectContext) -&gt; Swift.Optional&lt;GitHub_User_ListTests.User&gt;"
+                  moduleName = "GitHub User ListTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassanrafiqueawan/Desktop/Operation%20Queue/GitHub%20User%20List/GitHub%20User%20List/Operations/Data%20Operations/UserDetailsParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "209">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8091FA63-A16D-4752-A5C3-684CFEC70A8B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHub User List/Operations/Data Operations/UsersListParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "userWithId(_:inContext:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8091FA63-A16D-4752-A5C3-684CFEC70A8B - 46b311ea2ec6e17e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHub_User_List.UsersListParser.userWithId(_: Swift.Int64, inContext: __C.NSManagedObjectContext) -&gt; Swift.Optional&lt;GitHub_User_List.User&gt;"
+                  moduleName = "GitHub User List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassanrafiqueawan/Desktop/Operation%20Queue/GitHub%20User%20List/GitHub%20User%20List/Operations/Data%20Operations/UsersListParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "8091FA63-A16D-4752-A5C3-684CFEC70A8B - 746be99905d3938f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHub_User_ListTests.UsersListParser.userWithId(_: Swift.Int64, inContext: __C.NSManagedObjectContext) -&gt; Swift.Optional&lt;GitHub_User_ListTests.User&gt;"
+                  moduleName = "GitHub User ListTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassanrafiqueawan/Desktop/Operation%20Queue/GitHub%20User%20List/GitHub%20User%20List/Operations/Data%20Operations/UsersListParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
